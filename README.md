@@ -1,1 +1,1 @@
-Here i will be uploading codes done in Data science class and also in Data analytics course
+Here I will be uploading codes done in Data science class and also in Data analytics course
